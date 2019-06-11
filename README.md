@@ -5,6 +5,5 @@
 
 
 *My second game that is still being built. 
-*All scripts and sprites created by me.
 
 _An aged man, fed up with crime in his neigborhood, takes matters into his own hands._
