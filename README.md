@@ -7,4 +7,4 @@
 
 *All scripts and sprites created by me. 
 
-_An aged man, fed up with crime in his neigborhood, takes matters in his own hands._
+_An aged man, fed up with crime in his neigborhood, takes matters into his own hands._
