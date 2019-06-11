@@ -3,7 +3,7 @@
 
 2-D Side scroller made with GML
 
-*My second game is a side-scroller that is still in production. This e
+*My second game that is still being built. 
 
 *All scripts and sprites created by me. 
 
