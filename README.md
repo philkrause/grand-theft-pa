@@ -1,7 +1,7 @@
 # grand-theft-pa
 ![](kg.gif)
 
-2-D Side scroller made with GML
+2-D Side scroller made with [GML](https://www.yoyogames.com/gamemaker)
 
 *My second game that is still being built. 
 
